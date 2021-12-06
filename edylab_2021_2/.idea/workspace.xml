@@ -1,0 +1,239 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ed751204-2647-4f3f-8dc1-f60e911f37d0" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Kotlin Class" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProblemsViewState">
+    <option name="selectedIndex" value="1" />
+  </component>
+  <component name="ProjectId" id="1woD3Ve0HF0jFe2OnaGEeTaMC0L" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="pruebas" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\ultre\Documents\Trabajos\Java\edylab_2021_2\src\estructurasnolineales\ImagenArreglo\Imagenes" />
+      <recent name="C:\Users\ultre\Documents\Trabajos\Java\edylab_2021_2\src\audio\Vocales" />
+      <recent name="C:\Users\ultre\Documents\Trabajos\Java\edylab_2021_2\src\Herramientas" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.PruebaListaEncadenada">
+    <configuration default="true" type="ArquillianTestNG" factoryName="" nameIsGenerated="true">
+      <option name="arquillianRunConfiguration">
+        <value>
+          <option name="containerStateName" value="" />
+        </value>
+      </option>
+      <option name="TEST_OBJECT" value="CLASS" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaArreglo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.PruebaArreglo" />
+      <module name="edylab_2021_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaCola" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.PruebaCola" />
+      <module name="edylab_2021_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaColaLista" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.PruebaColaLista" />
+      <module name="edylab_2021_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaListaEncadenada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.PruebaListaEncadenada" />
+      <module name="edylab_2021_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PruebaPilaEncadenada" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="pruebas.PruebaPilaEncadenada" />
+      <module name="edylab_2021_2" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="pruebas.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.PruebaListaEncadenada" />
+        <item itemvalue="Application.PruebaArreglo" />
+        <item itemvalue="Application.PruebaColaLista" />
+        <item itemvalue="Application.PruebaCola" />
+        <item itemvalue="Application.PruebaPilaEncadenada" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ed751204-2647-4f3f-8dc1-f60e911f37d0" name="Changes" comment="" />
+      <created>1629115851515</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1629115851515</updated>
+      <workItem from="1629115854550" duration="950000" />
+      <workItem from="1629226887869" duration="695000" />
+      <workItem from="1629289391728" duration="5982000" />
+      <workItem from="1629297876002" duration="96000" />
+      <workItem from="1629298003360" duration="148000" />
+      <workItem from="1629307116478" duration="33242000" />
+      <workItem from="1629344415629" duration="59000" />
+      <workItem from="1629685935112" duration="26000" />
+      <workItem from="1629735413093" duration="7814000" />
+      <workItem from="1629748117886" duration="32737000" />
+      <workItem from="1629808360715" duration="19267000" />
+      <workItem from="1629911173432" duration="47183000" />
+      <workItem from="1630009720004" duration="19886000" />
+      <workItem from="1630038622112" duration="6032000" />
+      <workItem from="1630091231417" duration="24494000" />
+      <workItem from="1630294410341" duration="1403000" />
+      <workItem from="1630328678575" duration="657000" />
+      <workItem from="1630343927418" duration="31393000" />
+      <workItem from="1630382263631" duration="327000" />
+      <workItem from="1630516487476" duration="42983000" />
+      <workItem from="1630592201582" duration="2420000" />
+      <workItem from="1630610279020" duration="24790000" />
+      <workItem from="1630643410711" duration="13000" />
+      <workItem from="1630708844243" duration="1734000" />
+      <workItem from="1630713815520" duration="1144000" />
+      <workItem from="1630716403998" duration="225000" />
+      <workItem from="1630948401509" duration="7314000" />
+      <workItem from="1631122102051" duration="1401000" />
+      <workItem from="1631123585373" duration="50248000" />
+      <workItem from="1631320646470" duration="11899000" />
+      <workItem from="1631333727222" duration="79000" />
+      <workItem from="1631333929798" duration="40000" />
+      <workItem from="1631552458524" duration="31037000" />
+      <workItem from="1631652173181" duration="9109000" />
+      <workItem from="1632183645000" duration="46000" />
+      <workItem from="1632183745616" duration="607000" />
+      <workItem from="1632173233623" duration="7939000" />
+      <workItem from="1632331526950" duration="7636000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.ClassCastException" package="java.lang" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/audio/wavfile/WavFile.java</url>
+          <line>91</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pruebas/PruebaGaleria.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/estructuraslineales/ListaEncadenada.java</url>
+          <line>5</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/pruebas/PruebaListaEncadenada.java</url>
+          <line>9</line>
+          <option name="timeStamp" value="8" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/edylab_2021_2$PruebaListaEncadenada.ic" NAME="PruebaListaEncadenada Coverage Results" MODIFIED="1632544668945" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>pruebas.*</FILTER>
+    </SUITE>
+  </component>
+</project>
