@@ -23,7 +23,7 @@ public class PruebaArreglo {
         arreglo2.agregar("G");
         arreglo2.agregar("H");
 
-        SalidaTerminal.consola(arreglo1.insertar(2,"H")+"\n");
+        SalidaTerminal.consola(arreglo1.insertar(0,"H")+"\n");
         arreglo1.imprimir();
 
 
